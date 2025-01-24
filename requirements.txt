@@ -1,0 +1,6 @@
+torch
+torchvision
+torchaudio
+mediapipe
+opencv-python
+decord
