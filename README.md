@@ -27,7 +27,7 @@ This project uses **MediaPipe** and **SAM 2 (Segment Anything Model 2)** to auto
    cd sam2
    pip install -e .
    ```
-
+4. Download the `sam2.1_hiera_l.pt` file from sam2 repository and paste it in the checkpoints folder.
 ## Usage
 ### Step 1: Detect Hands in the First Frame
 Run:
