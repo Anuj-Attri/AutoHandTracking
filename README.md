@@ -50,7 +50,7 @@ python adjust_overlay.py
 ```
 
 ## File Structure
-```plaintext
+```
 ├── detect_hands.py          # Detect hands in the first frame
 ├── track_hands.py           # Track hands across frames
 ├── adjust_overlay.py        # Adjust overlay opacity (post-processing)
